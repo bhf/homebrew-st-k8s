@@ -1,10 +1,10 @@
 class StK8s < Formula
   desc "View and chat to your Kubernetes cluster"
   homepage "https://github.com/bhf/st-k8s"
-  url "https://github.com/bhf/st-k8s/releases/download/v1.1.7/st-k8s-v1.1.7.tar.gz"
-  sha256 "61e42fd6391ed8d6dd86aa662ab773f9103022d99608a28d254a57813660b29e"
+  url "https://github.com/bhf/st-k8s/releases/download/v1.2.0/st-k8s-v1.2.0.tar.gz"
+  sha256 "0042f853bb8b6c57f2e31cd43827ea0c8f062cc4801f1899ce81db9041ac0ab5"
   license "MIT"
-  version "1.1.7"
+  version "1.2.0"
 
   depends_on "node"
 
